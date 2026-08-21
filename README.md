@@ -62,6 +62,8 @@ The prototype was iteratively refined to address wheel alignment, structural wei
 
 CAD model, circuit, mechanical prototype and testing images are included in this repository.
 
+https://github.com/user-attachments/assets/5e4ae847-d427-4801-a409-c837cc5b36a9
+
 ## Project Status
 
 **Completed**
